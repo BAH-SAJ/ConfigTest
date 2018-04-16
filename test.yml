@@ -3,4 +3,4 @@ message: Primary Message
 spring:
   profiles: secondary
 
-message: Work damnit!
+message: Local functionality
