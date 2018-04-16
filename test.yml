@@ -1,0 +1,6 @@
+message: Test Message
+---
+spring:
+  profiles: second
+
+message: Second Message
