@@ -3,4 +3,4 @@ message: Primary Message
 spring:
   profiles: secondary
 
-message: Secondary Message
+message: New Secondary Message
