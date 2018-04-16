@@ -1,6 +1,6 @@
-message: Test Message
+message: Primary Message
 ---
 spring:
-  profiles: second
+  profiles: secondary
 
-message: Second Message
+message: Secondary Message
